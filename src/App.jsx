@@ -135,7 +135,7 @@ function App() {
         </div>
       </div>
       <div className="flex justify-center items-center text-center">
-        <p className="font-sans font-semibold md:text-base text-sm text-white capitalize mb-9">made with &#10084; by abhiraj</p>
+        <p className="font-sans font-semibold md:text-base text-sm text-white capitalize mb-9">Odus Tech &#10084;</p>
       </div>
     </>
   );
